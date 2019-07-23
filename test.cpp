@@ -95,5 +95,6 @@ void test_hcd(unsigned int mult){
 
 int main(){
  fprintf(stdout, "\nHello from test");
+ fprintf(stdout, "\nHello for Jenkins");
  return 0;
 }
